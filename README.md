@@ -10,4 +10,4 @@
 
 - mobile workaround through 2 separate dashboards embedded into a basic gh page
 
-- reach out for questions anytime 🩵
+- reach out for questions anytime 🖤
